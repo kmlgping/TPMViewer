@@ -4,6 +4,8 @@ Windows TPM 2.0 度量启动（Measured Boot）分析工具：读取本次启动
 
 C/C++ + ImGui + DirectX 11，解析逻辑参考 [TheCruZ/BootViewer](https://github.com/TheCruZ/BootViewer)。
 
+![TPMViewer 主界面：事件列表 + 事件详情 + hex 视图](assets/screenshot.png)
+
 ## 功能
 
 - **读取 TPM**：通过 TBS 读取本次启动的事件日志和 PCR 实时值（失败时试试管理员运行）
