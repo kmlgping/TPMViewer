@@ -1,0 +1,14 @@
+﻿  Building Custom Rule I:/MyInformation/TPMViewer/CMakeLists.txt
+  main.cpp
+  util.cpp
+  hash.cpp
+  sipa.cpp
+  tcg_log.cpp
+  replay.cpp
+  tbs_api.cpp
+  driver_report.cpp
+  app.cpp
+  正在生成代码...
+  TPMViewer.vcxproj -> I:\MyInformation\TPMViewer\build\Debug\TPMViewer.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
